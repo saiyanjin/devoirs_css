@@ -1,0 +1,35 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.fond,
+nav li {
+    background-color: #eef3f7;
+}
+
+nav li a {
+    color: #0066ce !important;
+}
+
+.nav-item {
+    border-bottom: 1px solid #0e5f96;
+}
+
+footer {
+    color: white;
+    background-color: #008bd3;
+    border-radius: 0 0 10px 10px;
+}
+
+.sous-footer {
+    background-color: #00327b;
+    border-radius: 0 0 10px 10px;
+}
+
+.titre {
+    background-color: #0e5f96;
+}
+
+.texttt {
+    color: #4e6da6;
+}
