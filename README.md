@@ -20,5 +20,5 @@ Avec Grid et Flexbox maison, on a un contrôle total sur le design et le style. 
     -> Plus léger et indépendant d’une bibliothèque externe.
 
 Conclusion :
-  -> Bootstrap = rapide, standard, facile pour un site responsive.
+  -> Bootstrap = rapide et facile pour un site responsive.
   -> Grid/Flexbox = flexible, personnalisable, mais demande plus de travail.
